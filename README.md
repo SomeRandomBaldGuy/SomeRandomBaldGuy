@@ -2,7 +2,7 @@
 
 A little about me, I've got approximately *7 years of experience* in the IT field mostly doing helpdesk work.
 
-I'm currently looking to expand my skillset and in either a Junior Sys Admin, or full Sys Admin role in the near future. 
+I'm currently looking to expand my skillset and land in either a Junior Sys Admin, or full Sys Admin role in the near future. 
 
 I use GNU/Linux exclusively in both my daily life, and when I'm studying / coding.
 
